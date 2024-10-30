@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "RrpRnfliJz6prRkJeA60LrBr31KiTQHKlsCnowGyj1vsodVbZyeLNy81DLZ091BKgHaonao70N9LB+gbeEyUCw==",
+  "success": true,
+  "projectFilePath": "C:\\PLIKI\\Projekty\\HotelBookingApp\\HotelBookingApp\\HotelBookingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adamw\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.1.1\\mcmaster.extensions.commandlineutils.4.1.1.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\microsoft.extensions.logging\\8.0.1\\microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\adamw\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

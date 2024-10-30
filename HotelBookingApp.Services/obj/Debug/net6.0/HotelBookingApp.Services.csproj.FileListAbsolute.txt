@@ -1,0 +1,15 @@
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\bin\Debug\net6.0\HotelBookingApp.Services.deps.json
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\bin\Debug\net6.0\HotelBookingApp.Services.dll
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\bin\Debug\net6.0\HotelBookingApp.Services.pdb
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.csproj.AssemblyReference.cache
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.AssemblyInfoInputs.cache
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.AssemblyInfo.cs
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.csproj.CoreCompileInputs.cache
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.dll
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\refint\HotelBookingApp.Services.dll
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.pdb
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\ref\HotelBookingApp.Services.dll
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\bin\Debug\net6.0\HotelBookingApp.Models.dll
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\bin\Debug\net6.0\HotelBookingApp.Models.pdb
+C:\PLIKI\Projekty\HotelBookingApp\HotelBookingApp.Services\obj\Debug\net6.0\HotelBookingApp.Services.csproj.CopyComplete

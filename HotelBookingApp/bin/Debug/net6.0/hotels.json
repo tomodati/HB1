@@ -1,0 +1,48 @@
+[ 
+ { 
+ "Id": "H1", 
+ "Name": "Hotel California", 
+ "RoomTypes":
+ [ 
+ { 
+ "Code": "SGL", 
+ "Description": "Single Room", 
+ "Amenities": ["WiFi",
+ "TV"], 
+ "Features": ["Non-smoking"] 
+ }, 
+ { 
+ "Code": "DBL", 
+ "Description": "Double Room", 
+ "Amenities": ["WiFi", "TV", "Minibar"], 
+ "Features": ["Non-smoking", "Sea View"] 
+ } 
+ ], 
+ "Rooms": [ 
+ { 
+ "RoomType":
+ "SGL", 
+ "RoomId":
+ "101" 
+ }, 
+ { 
+ "RoomType":
+ "SGL", 
+ "RoomId":
+ "102" 
+ }, 
+ { 
+ "RoomType":
+ "DBL", 
+ "RoomId":
+ "201" 
+ }, 
+ { 
+ "RoomType":
+ "DBL", 
+ "RoomId":
+ "202" 
+ } 
+ ] 
+ } 
+] 
