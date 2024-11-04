@@ -39,23 +39,16 @@ namespace HotelBookingApp
             // prepare "data source"
             IDataSource dataSource = new DataSource.DataSource(hotels, bookings);
 
-            while (consoleText != "")
+            while (consoleText != "Exit") 
             {
                 consoleText = Console.ReadLine();
-
                 //do something with this text bro
-                IService service = HotelsBookingsServiceFactory.GetService(consoleText, dataSource); 
-                if(service != null) 
+                IService service = HotelsBookingsServiceFactory.GetService(consoleText, dataSource);
+                if (service != null)
                 {
-                    Console.WriteLine(await service.GetResults()); 
+                    Console.WriteLine(await service.GetResults());
                 }
-                else
-                {
-                    Console.WriteLine("Service unavailable - 404"); 
-                }
-
-            }
-
+            } 
         }
 
         /// <summary>
